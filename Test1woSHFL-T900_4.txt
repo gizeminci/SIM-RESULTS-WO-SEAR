@@ -1,0 +1,1220 @@
+Total Agg: 276 #AgglomerateN°=0 of_17_partilces Longest distance: 4.652959314670015
+2.0 1 
+4.0 13 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=1 of_39_partilces Longest distance: 9.518763115322809
+2.0 2 
+4.0 12 
+6.0 29 
+8.0 33 
+10.0 36 
+12.0 39 
+Total Agg: 276 #AgglomerateN°=2 of_23_partilces Longest distance: 6.287371394672006
+2.0 2 
+4.0 15 
+6.0 22 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=3 of_16_partilces Longest distance: 6.536703419539004
+2.0 3 
+4.0 9 
+6.0 13 
+8.0 16 
+Total Agg: 276 #AgglomerateN°=4 of_30_partilces Longest distance: 7.14810716098152
+2.0 1 
+4.0 8 
+6.0 24 
+8.0 30 
+Total Agg: 276 #AgglomerateN°=5 of_10_partilces Longest distance: 2.972541649953702
+2.0 3 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=6 of_30_partilces Longest distance: 5.8408882391900425
+2.0 4 
+4.0 12 
+6.0 27 
+8.0 30 
+Total Agg: 276 #AgglomerateN°=7 of_20_partilces Longest distance: 4.998548610536361
+2.0 3 
+4.0 15 
+6.0 20 
+Total Agg: 276 #AgglomerateN°=8 of_26_partilces Longest distance: 6.6592724853820275
+2.0 2 
+4.0 15 
+6.0 23 
+8.0 26 
+Total Agg: 276 #AgglomerateN°=9 of_17_partilces Longest distance: 4.528807356940838
+2.0 4 
+4.0 14 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=10 of_20_partilces Longest distance: 6.938381287464494
+2.0 0 
+4.0 12 
+6.0 17 
+8.0 19 
+10.0 20 
+Total Agg: 276 #AgglomerateN°=11 of_27_partilces Longest distance: 6.192716620101227
+2.0 2 
+4.0 9 
+6.0 23 
+8.0 27 
+Total Agg: 276 #AgglomerateN°=12 of_24_partilces Longest distance: 5.596840795795904
+2.0 4 
+4.0 16 
+6.0 23 
+8.0 24 
+Total Agg: 276 #AgglomerateN°=13 of_19_partilces Longest distance: 4.039026796360507
+2.0 3 
+4.0 16 
+6.0 19 
+Total Agg: 276 #AgglomerateN°=14 of_27_partilces Longest distance: 7.7850058706125616
+2.0 1 
+4.0 12 
+6.0 22 
+8.0 27 
+Total Agg: 276 #AgglomerateN°=15 of_45_partilces Longest distance: 11.101855343381278
+2.0 4 
+4.0 13 
+6.0 23 
+8.0 32 
+10.0 37 
+12.0 42 
+14.0 45 
+Total Agg: 276 #AgglomerateN°=16 of_19_partilces Longest distance: 5.839190721247905
+2.0 4 
+4.0 10 
+6.0 19 
+Total Agg: 276 #AgglomerateN°=17 of_34_partilces Longest distance: 7.056023474276474
+2.0 3 
+4.0 14 
+6.0 28 
+8.0 33 
+10.0 34 
+Total Agg: 276 #AgglomerateN°=18 of_8_partilces Longest distance: 2.506697654245578
+2.0 3 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=19 of_12_partilces Longest distance: 5.026784097809565
+2.0 3 
+4.0 7 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=20 of_26_partilces Longest distance: 7.197430257345425
+2.0 3 
+4.0 14 
+6.0 21 
+8.0 25 
+10.0 26 
+Total Agg: 276 #AgglomerateN°=21 of_16_partilces Longest distance: 3.6996848504438935
+2.0 4 
+4.0 15 
+6.0 16 
+Total Agg: 276 #AgglomerateN°=22 of_10_partilces Longest distance: 3.514455191780129
+2.0 2 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=23 of_8_partilces Longest distance: 2.7482019357123506
+2.0 3 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=24 of_38_partilces Longest distance: 7.911193299993313
+2.0 2 
+4.0 10 
+6.0 26 
+8.0 37 
+10.0 38 
+Total Agg: 276 #AgglomerateN°=25 of_54_partilces Longest distance: 15.954558245935331
+2.0 0 
+4.0 6 
+6.0 15 
+8.0 21 
+10.0 27 
+12.0 35 
+14.0 43 
+16.0 50 
+18.0 54 
+Total Agg: 276 #AgglomerateN°=26 of_14_partilces Longest distance: 5.4022146381167
+2.0 3 
+4.0 8 
+6.0 14 
+Total Agg: 276 #AgglomerateN°=27 of_41_partilces Longest distance: 8.50021935471399
+2.0 1 
+4.0 9 
+6.0 24 
+8.0 35 
+10.0 40 
+12.0 41 
+Total Agg: 276 #AgglomerateN°=28 of_29_partilces Longest distance: 9.814041038147428
+2.0 1 
+4.0 9 
+6.0 15 
+8.0 22 
+10.0 28 
+12.0 29 
+Total Agg: 276 #AgglomerateN°=29 of_37_partilces Longest distance: 10.125496801863626
+2.0 1 
+4.0 10 
+6.0 20 
+8.0 29 
+10.0 36 
+12.0 37 
+Total Agg: 276 #AgglomerateN°=30 of_18_partilces Longest distance: 5.92130440293667
+2.0 2 
+4.0 9 
+6.0 16 
+8.0 18 
+Total Agg: 276 #AgglomerateN°=31 of_42_partilces Longest distance: 9.66058360272119
+2.0 3 
+4.0 14 
+6.0 28 
+8.0 38 
+10.0 40 
+12.0 42 
+Total Agg: 276 #AgglomerateN°=32 of_35_partilces Longest distance: 10.853911292425916
+2.0 4 
+4.0 13 
+6.0 19 
+8.0 28 
+10.0 33 
+12.0 34 
+14.0 35 
+Total Agg: 276 #AgglomerateN°=33 of_55_partilces Longest distance: 11.75484157848908
+2.0 3 
+4.0 13 
+6.0 25 
+8.0 39 
+10.0 47 
+12.0 52 
+14.0 55 
+Total Agg: 276 #AgglomerateN°=34 of_17_partilces Longest distance: 4.5431286717127435
+2.0 5 
+4.0 13 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=35 of_43_partilces Longest distance: 10.115326393024867
+2.0 2 
+4.0 11 
+6.0 28 
+8.0 35 
+10.0 40 
+12.0 43 
+Total Agg: 276 #AgglomerateN°=36 of_13_partilces Longest distance: 5.58050473791125
+2.0 3 
+4.0 9 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=37 of_14_partilces Longest distance: 3.4899876983570337
+2.0 3 
+4.0 14 
+Total Agg: 276 #AgglomerateN°=38 of_19_partilces Longest distance: 5.395939545104124
+2.0 3 
+4.0 12 
+6.0 19 
+Total Agg: 276 #AgglomerateN°=39 of_12_partilces Longest distance: 4.1304978215941555
+2.0 3 
+4.0 11 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=40 of_37_partilces Longest distance: 8.337510789463082
+2.0 3 
+4.0 12 
+6.0 24 
+8.0 33 
+10.0 37 
+Total Agg: 276 #AgglomerateN°=41 of_32_partilces Longest distance: 8.149439599798567
+2.0 0 
+4.0 7 
+6.0 21 
+8.0 27 
+10.0 31 
+12.0 32 
+Total Agg: 276 #AgglomerateN°=42 of_23_partilces Longest distance: 5.484585945251457
+2.0 4 
+4.0 14 
+6.0 22 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=43 of_16_partilces Longest distance: 3.9297563358292744
+2.0 3 
+4.0 14 
+6.0 16 
+Total Agg: 276 #AgglomerateN°=44 of_23_partilces Longest distance: 6.198847172947459
+2.0 1 
+4.0 14 
+6.0 21 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=45 of_25_partilces Longest distance: 7.519159434125427
+2.0 3 
+4.0 9 
+6.0 20 
+8.0 24 
+10.0 25 
+Total Agg: 276 #AgglomerateN°=46 of_15_partilces Longest distance: 4.652183160702174
+2.0 3 
+4.0 13 
+6.0 15 
+Total Agg: 276 #AgglomerateN°=47 of_21_partilces Longest distance: 6.5198192082228275
+2.0 4 
+4.0 12 
+6.0 20 
+8.0 21 
+Total Agg: 276 #AgglomerateN°=48 of_15_partilces Longest distance: 6.050925172973739
+2.0 2 
+4.0 8 
+6.0 14 
+8.0 15 
+Total Agg: 276 #AgglomerateN°=49 of_20_partilces Longest distance: 4.297690577918864
+2.0 3 
+4.0 16 
+6.0 20 
+Total Agg: 276 #AgglomerateN°=50 of_30_partilces Longest distance: 6.517043606529587
+2.0 2 
+4.0 11 
+6.0 21 
+8.0 30 
+Total Agg: 276 #AgglomerateN°=51 of_3_partilces Longest distance: 1.2291373744060963
+2.0 3 
+Total Agg: 276 #AgglomerateN°=52 of_22_partilces Longest distance: 4.207060112476158
+2.0 3 
+4.0 17 
+6.0 22 
+Total Agg: 276 #AgglomerateN°=53 of_29_partilces Longest distance: 6.223234625617006
+2.0 3 
+4.0 15 
+6.0 27 
+8.0 29 
+Total Agg: 276 #AgglomerateN°=54 of_22_partilces Longest distance: 7.628244096457503
+2.0 1 
+4.0 9 
+6.0 16 
+8.0 20 
+10.0 22 
+Total Agg: 276 #AgglomerateN°=55 of_52_partilces Longest distance: 10.16210623558975
+2.0 1 
+4.0 10 
+6.0 20 
+8.0 32 
+10.0 49 
+12.0 52 
+Total Agg: 276 #AgglomerateN°=56 of_40_partilces Longest distance: 7.579701693526323
+2.0 0 
+4.0 14 
+6.0 32 
+8.0 37 
+10.0 40 
+Total Agg: 276 #AgglomerateN°=57 of_11_partilces Longest distance: 2.841968892617768
+2.0 4 
+4.0 11 
+Total Agg: 276 #AgglomerateN°=58 of_45_partilces Longest distance: 11.049632471886921
+2.0 1 
+4.0 8 
+6.0 18 
+8.0 27 
+10.0 39 
+12.0 45 
+Total Agg: 276 #AgglomerateN°=59 of_45_partilces Longest distance: 7.431783824982492
+2.0 2 
+4.0 11 
+6.0 31 
+8.0 44 
+10.0 45 
+Total Agg: 276 #AgglomerateN°=60 of_19_partilces Longest distance: 6.110887015457827
+2.0 2 
+4.0 10 
+6.0 18 
+8.0 19 
+Total Agg: 276 #AgglomerateN°=61 of_10_partilces Longest distance: 2.767180903059407
+2.0 4 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=62 of_20_partilces Longest distance: 7.303121336461324
+2.0 2 
+4.0 10 
+6.0 14 
+8.0 20 
+Total Agg: 276 #AgglomerateN°=63 of_27_partilces Longest distance: 7.695040387543535
+2.0 4 
+4.0 12 
+6.0 20 
+8.0 26 
+10.0 27 
+Total Agg: 276 #AgglomerateN°=64 of_13_partilces Longest distance: 3.7099373488001763
+2.0 2 
+4.0 12 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=65 of_19_partilces Longest distance: 5.31027608549476
+2.0 3 
+4.0 14 
+6.0 18 
+8.0 19 
+Total Agg: 276 #AgglomerateN°=66 of_11_partilces Longest distance: 4.4044075124900965
+2.0 3 
+4.0 9 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=67 of_17_partilces Longest distance: 6.579590617979585
+2.0 2 
+4.0 11 
+6.0 15 
+8.0 17 
+Total Agg: 276 #AgglomerateN°=68 of_2_partilces Longest distance: 1.0388185453143493
+2.0 2 
+Total Agg: 276 #AgglomerateN°=69 of_31_partilces Longest distance: 8.31354292361164
+2.0 4 
+4.0 9 
+6.0 20 
+8.0 30 
+10.0 31 
+Total Agg: 276 #AgglomerateN°=70 of_3_partilces Longest distance: 1.7618467319544022
+2.0 3 
+Total Agg: 276 #AgglomerateN°=71 of_24_partilces Longest distance: 6.75224860570407
+2.0 3 
+4.0 10 
+6.0 20 
+8.0 24 
+Total Agg: 276 #AgglomerateN°=72 of_17_partilces Longest distance: 4.45913260438491
+2.0 1 
+4.0 12 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=73 of_5_partilces Longest distance: 1.7558807084285966
+2.0 5 
+Total Agg: 276 #AgglomerateN°=74 of_21_partilces Longest distance: 5.452212422722525
+2.0 3 
+4.0 12 
+6.0 21 
+Total Agg: 276 #AgglomerateN°=75 of_13_partilces Longest distance: 4.74146919786942
+2.0 3 
+4.0 11 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=76 of_16_partilces Longest distance: 5.094866834822089
+2.0 3 
+4.0 12 
+6.0 16 
+Total Agg: 276 #AgglomerateN°=77 of_8_partilces Longest distance: 2.310913348671713
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=78 of_13_partilces Longest distance: 3.677375957819771
+2.0 3 
+4.0 11 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=79 of_11_partilces Longest distance: 3.529035675165771
+2.0 3 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=80 of_13_partilces Longest distance: 3.848153549933917
+2.0 3 
+4.0 12 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=81 of_39_partilces Longest distance: 12.988012815522488
+2.0 0 
+4.0 3 
+6.0 9 
+8.0 19 
+10.0 26 
+12.0 32 
+14.0 36 
+16.0 39 
+Total Agg: 276 #AgglomerateN°=82 of_38_partilces Longest distance: 11.547261345352451
+2.0 0 
+4.0 5 
+6.0 15 
+8.0 26 
+10.0 34 
+12.0 35 
+14.0 37 
+16.0 38 
+Total Agg: 276 #AgglomerateN°=83 of_17_partilces Longest distance: 6.214889060747888
+2.0 2 
+4.0 8 
+6.0 14 
+8.0 17 
+Total Agg: 276 #AgglomerateN°=84 of_28_partilces Longest distance: 8.683336015462617
+2.0 0 
+4.0 4 
+6.0 12 
+8.0 25 
+10.0 28 
+Total Agg: 276 #AgglomerateN°=85 of_18_partilces Longest distance: 5.435756506872002
+2.0 3 
+4.0 12 
+6.0 18 
+Total Agg: 276 #AgglomerateN°=86 of_10_partilces Longest distance: 2.9387428804537197
+2.0 4 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=87 of_37_partilces Longest distance: 10.427705079707954
+2.0 0 
+4.0 7 
+6.0 16 
+8.0 25 
+10.0 33 
+12.0 36 
+14.0 37 
+Total Agg: 276 #AgglomerateN°=88 of_22_partilces Longest distance: 7.4591363734629255
+2.0 3 
+4.0 10 
+6.0 17 
+8.0 21 
+10.0 22 
+Total Agg: 276 #AgglomerateN°=89 of_13_partilces Longest distance: 4.4749631793882525
+2.0 4 
+4.0 11 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=90 of_31_partilces Longest distance: 5.523051341306896
+2.0 3 
+4.0 16 
+6.0 31 
+Total Agg: 276 #AgglomerateN°=91 of_32_partilces Longest distance: 11.011291025845948
+2.0 3 
+4.0 8 
+6.0 15 
+8.0 22 
+10.0 28 
+12.0 30 
+14.0 32 
+Total Agg: 276 #AgglomerateN°=92 of_31_partilces Longest distance: 5.274826125888392
+2.0 3 
+4.0 14 
+6.0 31 
+Total Agg: 276 #AgglomerateN°=93 of_47_partilces Longest distance: 10.134402842116899
+2.0 2 
+4.0 11 
+6.0 23 
+8.0 38 
+10.0 42 
+12.0 47 
+Total Agg: 276 #AgglomerateN°=94 of_9_partilces Longest distance: 3.024537506771393
+2.0 3 
+4.0 9 
+Total Agg: 276 #AgglomerateN°=95 of_12_partilces Longest distance: 3.728406759808988
+2.0 3 
+4.0 11 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=96 of_61_partilces Longest distance: 11.754872185484276
+2.0 2 
+4.0 12 
+6.0 29 
+8.0 42 
+10.0 52 
+12.0 59 
+14.0 61 
+Total Agg: 276 #AgglomerateN°=97 of_8_partilces Longest distance: 3.142698050102325
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=98 of_6_partilces Longest distance: 2.358024967272714
+2.0 4 
+4.0 6 
+Total Agg: 276 #AgglomerateN°=99 of_33_partilces Longest distance: 8.779370515703182
+2.0 1 
+4.0 8 
+6.0 19 
+8.0 27 
+10.0 33 
+Total Agg: 276 #AgglomerateN°=100 of_9_partilces Longest distance: 4.13948966000351
+2.0 3 
+4.0 7 
+6.0 9 
+Total Agg: 276 #AgglomerateN°=101 of_12_partilces Longest distance: 5.082273263454569
+2.0 3 
+4.0 9 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=102 of_7_partilces Longest distance: 2.964857454769344
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=103 of_34_partilces Longest distance: 10.187198505154546
+2.0 0 
+4.0 6 
+6.0 15 
+8.0 24 
+10.0 31 
+12.0 33 
+14.0 34 
+Total Agg: 276 #AgglomerateN°=104 of_61_partilces Longest distance: 12.334350091617424
+2.0 3 
+4.0 13 
+6.0 27 
+8.0 41 
+10.0 51 
+12.0 60 
+14.0 61 
+Total Agg: 276 #AgglomerateN°=105 of_20_partilces Longest distance: 7.426928400273184
+2.0 2 
+4.0 8 
+6.0 16 
+8.0 19 
+10.0 20 
+Total Agg: 276 #AgglomerateN°=106 of_11_partilces Longest distance: 4.064359620281794
+2.0 2 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=107 of_9_partilces Longest distance: 3.955038370957243
+2.0 2 
+4.0 7 
+6.0 9 
+Total Agg: 276 #AgglomerateN°=108 of_37_partilces Longest distance: 9.676693049579082
+2.0 2 
+4.0 13 
+6.0 25 
+8.0 32 
+10.0 35 
+12.0 36 
+14.0 37 
+Total Agg: 276 #AgglomerateN°=109 of_12_partilces Longest distance: 5.175280244605462
+2.0 1 
+4.0 8 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=110 of_67_partilces Longest distance: 14.880033366313198
+2.0 2 
+4.0 10 
+6.0 22 
+8.0 33 
+10.0 42 
+12.0 52 
+14.0 62 
+16.0 67 
+Total Agg: 276 #AgglomerateN°=111 of_23_partilces Longest distance: 5.446101398851174
+2.0 2 
+4.0 16 
+6.0 23 
+Total Agg: 276 #AgglomerateN°=112 of_10_partilces Longest distance: 3.7100902969124503
+2.0 3 
+4.0 9 
+6.0 10 
+Total Agg: 276 #AgglomerateN°=113 of_17_partilces Longest distance: 4.665064886641791
+2.0 3 
+4.0 13 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=114 of_9_partilces Longest distance: 2.7638385057441606
+2.0 2 
+4.0 9 
+Total Agg: 276 #AgglomerateN°=115 of_40_partilces Longest distance: 9.673302809015757
+2.0 2 
+4.0 8 
+6.0 22 
+8.0 33 
+10.0 39 
+12.0 40 
+Total Agg: 276 #AgglomerateN°=116 of_22_partilces Longest distance: 7.125302566491914
+2.0 3 
+4.0 10 
+6.0 20 
+8.0 22 
+Total Agg: 276 #AgglomerateN°=117 of_27_partilces Longest distance: 6.225953160935534
+2.0 2 
+4.0 13 
+6.0 24 
+8.0 27 
+Total Agg: 276 #AgglomerateN°=118 of_23_partilces Longest distance: 6.228974294382174
+2.0 2 
+4.0 13 
+6.0 20 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=119 of_24_partilces Longest distance: 8.99882395221575
+2.0 1 
+4.0 7 
+6.0 14 
+8.0 20 
+10.0 23 
+12.0 24 
+Total Agg: 276 #AgglomerateN°=120 of_28_partilces Longest distance: 5.832848431637552
+2.0 3 
+4.0 14 
+6.0 27 
+8.0 28 
+Total Agg: 276 #AgglomerateN°=121 of_25_partilces Longest distance: 6.51924481784156
+2.0 2 
+4.0 15 
+6.0 23 
+8.0 25 
+Total Agg: 276 #AgglomerateN°=122 of_17_partilces Longest distance: 4.613214400039025
+2.0 4 
+4.0 13 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=123 of_15_partilces Longest distance: 5.269746274340432
+2.0 2 
+4.0 10 
+6.0 14 
+8.0 15 
+Total Agg: 276 #AgglomerateN°=124 of_23_partilces Longest distance: 6.049375340327613
+2.0 2 
+4.0 12 
+6.0 22 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=125 of_5_partilces Longest distance: 3.1265722468086765
+2.0 3 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=126 of_31_partilces Longest distance: 9.648311887509966
+2.0 3 
+4.0 10 
+6.0 18 
+8.0 24 
+10.0 31 
+Total Agg: 276 #AgglomerateN°=127 of_33_partilces Longest distance: 7.460463669851181
+2.0 3 
+4.0 11 
+6.0 24 
+8.0 32 
+10.0 33 
+Total Agg: 276 #AgglomerateN°=128 of_8_partilces Longest distance: 3.3657437266164587
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=129 of_15_partilces Longest distance: 3.8449888708955484
+2.0 6 
+4.0 13 
+6.0 15 
+Total Agg: 276 #AgglomerateN°=130 of_39_partilces Longest distance: 9.13477883040715
+2.0 3 
+4.0 10 
+6.0 20 
+8.0 33 
+10.0 37 
+12.0 39 
+Total Agg: 276 #AgglomerateN°=131 of_7_partilces Longest distance: 2.8637846439704364
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=132 of_18_partilces Longest distance: 4.5328131714176925
+2.0 3 
+4.0 12 
+6.0 18 
+Total Agg: 276 #AgglomerateN°=133 of_55_partilces Longest distance: 14.588596929150814
+2.0 3 
+4.0 12 
+6.0 25 
+8.0 35 
+10.0 41 
+12.0 47 
+14.0 52 
+16.0 55 
+Total Agg: 276 #AgglomerateN°=134 of_11_partilces Longest distance: 3.345522156264881
+2.0 2 
+4.0 11 
+Total Agg: 276 #AgglomerateN°=135 of_32_partilces Longest distance: 8.971820618764248
+2.0 2 
+4.0 8 
+6.0 21 
+8.0 28 
+10.0 32 
+Total Agg: 276 #AgglomerateN°=136 of_7_partilces Longest distance: 2.5770371104388654
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=137 of_17_partilces Longest distance: 5.4924810307850915
+2.0 3 
+4.0 11 
+6.0 16 
+8.0 17 
+Total Agg: 276 #AgglomerateN°=138 of_41_partilces Longest distance: 11.168114250588257
+2.0 1 
+4.0 9 
+6.0 22 
+8.0 30 
+10.0 36 
+12.0 41 
+Total Agg: 276 #AgglomerateN°=139 of_3_partilces Longest distance: 1.2503932512536984
+2.0 3 
+Total Agg: 276 #AgglomerateN°=140 of_17_partilces Longest distance: 5.029825890558456
+2.0 3 
+4.0 12 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=141 of_13_partilces Longest distance: 3.741778176624572
+2.0 6 
+4.0 13 
+Total Agg: 276 #AgglomerateN°=142 of_17_partilces Longest distance: 5.618108906533398
+2.0 2 
+4.0 11 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=143 of_23_partilces Longest distance: 5.056752111921126
+2.0 4 
+4.0 16 
+6.0 23 
+Total Agg: 276 #AgglomerateN°=144 of_11_partilces Longest distance: 4.301556035202952
+2.0 4 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=145 of_20_partilces Longest distance: 5.666914077058798
+2.0 3 
+4.0 9 
+6.0 20 
+Total Agg: 276 #AgglomerateN°=146 of_13_partilces Longest distance: 4.5981219146730234
+2.0 2 
+4.0 9 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=147 of_10_partilces Longest distance: 4.699766349089267
+2.0 3 
+4.0 8 
+6.0 10 
+Total Agg: 276 #AgglomerateN°=148 of_22_partilces Longest distance: 7.014189658910185
+2.0 1 
+4.0 8 
+6.0 16 
+8.0 22 
+Total Agg: 276 #AgglomerateN°=149 of_38_partilces Longest distance: 8.908000916375823
+2.0 3 
+4.0 9 
+6.0 23 
+8.0 30 
+10.0 38 
+Total Agg: 276 #AgglomerateN°=150 of_19_partilces Longest distance: 5.9646535455554925
+2.0 2 
+4.0 11 
+6.0 18 
+8.0 19 
+Total Agg: 276 #AgglomerateN°=151 of_15_partilces Longest distance: 4.914328044723613
+2.0 3 
+4.0 12 
+6.0 15 
+Total Agg: 276 #AgglomerateN°=152 of_34_partilces Longest distance: 8.567494111819226
+2.0 2 
+4.0 13 
+6.0 21 
+8.0 29 
+10.0 33 
+12.0 34 
+Total Agg: 276 #AgglomerateN°=153 of_52_partilces Longest distance: 11.749536843143852
+2.0 1 
+4.0 8 
+6.0 12 
+8.0 25 
+10.0 38 
+12.0 45 
+14.0 51 
+16.0 52 
+Total Agg: 276 #AgglomerateN°=154 of_10_partilces Longest distance: 3.358666860113297
+2.0 1 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=155 of_19_partilces Longest distance: 5.475635847038968
+2.0 2 
+4.0 12 
+6.0 19 
+Total Agg: 276 #AgglomerateN°=156 of_52_partilces Longest distance: 10.154031286779144
+2.0 5 
+4.0 10 
+6.0 25 
+8.0 40 
+10.0 49 
+12.0 52 
+Total Agg: 276 #AgglomerateN°=157 of_14_partilces Longest distance: 4.355909845398306
+2.0 3 
+4.0 12 
+6.0 14 
+Total Agg: 276 #AgglomerateN°=158 of_14_partilces Longest distance: 5.208850019185345
+2.0 2 
+4.0 10 
+6.0 13 
+8.0 14 
+Total Agg: 276 #AgglomerateN°=159 of_7_partilces Longest distance: 2.3241453710877273
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=160 of_7_partilces Longest distance: 3.4572467767587542
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=161 of_17_partilces Longest distance: 3.9648344744406843
+2.0 2 
+4.0 15 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=162 of_11_partilces Longest distance: 3.7639284284877497
+2.0 3 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=163 of_23_partilces Longest distance: 6.3237062484721145
+2.0 2 
+4.0 9 
+6.0 19 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=164 of_13_partilces Longest distance: 4.692710625306183
+2.0 3 
+4.0 9 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=165 of_11_partilces Longest distance: 4.492125534979603
+2.0 2 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=166 of_12_partilces Longest distance: 3.7378046613813356
+2.0 2 
+4.0 10 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=167 of_8_partilces Longest distance: 3.1643193578301783
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=168 of_22_partilces Longest distance: 5.585075075970038
+2.0 2 
+4.0 13 
+6.0 20 
+8.0 22 
+Total Agg: 276 #AgglomerateN°=169 of_7_partilces Longest distance: 2.85202342832917
+2.0 4 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=170 of_26_partilces Longest distance: 5.470902617735851
+2.0 3 
+4.0 17 
+6.0 25 
+8.0 26 
+Total Agg: 276 #AgglomerateN°=171 of_9_partilces Longest distance: 3.175855854119171
+2.0 2 
+4.0 9 
+Total Agg: 276 #AgglomerateN°=172 of_14_partilces Longest distance: 3.7395897261018827
+2.0 5 
+4.0 13 
+6.0 14 
+Total Agg: 276 #AgglomerateN°=173 of_37_partilces Longest distance: 7.712435842332144
+2.0 3 
+4.0 10 
+6.0 25 
+8.0 36 
+10.0 37 
+Total Agg: 276 #AgglomerateN°=174 of_8_partilces Longest distance: 2.672558841374763
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=175 of_7_partilces Longest distance: 2.737646933028282
+2.0 2 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=176 of_19_partilces Longest distance: 7.172202720262703
+2.0 2 
+4.0 6 
+6.0 14 
+8.0 19 
+Total Agg: 276 #AgglomerateN°=177 of_16_partilces Longest distance: 4.689876214082168
+2.0 3 
+4.0 12 
+6.0 16 
+Total Agg: 276 #AgglomerateN°=178 of_11_partilces Longest distance: 3.101194187095021
+2.0 5 
+4.0 11 
+Total Agg: 276 #AgglomerateN°=179 of_25_partilces Longest distance: 5.365126882903809
+2.0 3 
+4.0 12 
+6.0 22 
+8.0 25 
+Total Agg: 276 #AgglomerateN°=180 of_9_partilces Longest distance: 3.334308984514678
+2.0 5 
+4.0 9 
+Total Agg: 276 #AgglomerateN°=181 of_27_partilces Longest distance: 7.102314378632916
+2.0 3 
+4.0 14 
+6.0 24 
+8.0 27 
+Total Agg: 276 #AgglomerateN°=182 of_12_partilces Longest distance: 3.5449147694189094
+2.0 4 
+4.0 11 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=183 of_10_partilces Longest distance: 3.1041589974318136
+2.0 4 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=184 of_7_partilces Longest distance: 3.176409886209029
+2.0 2 
+4.0 6 
+6.0 7 
+Total Agg: 276 #AgglomerateN°=185 of_4_partilces Longest distance: 1.8540142076566362
+2.0 3 
+4.0 4 
+Total Agg: 276 #AgglomerateN°=186 of_6_partilces Longest distance: 3.484892210430848
+2.0 2 
+4.0 5 
+6.0 6 
+Total Agg: 276 #AgglomerateN°=187 of_13_partilces Longest distance: 3.639041765006824
+2.0 3 
+4.0 13 
+Total Agg: 276 #AgglomerateN°=188 of_12_partilces Longest distance: 4.988114060456111
+2.0 2 
+4.0 8 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=189 of_15_partilces Longest distance: 5.680877300736292
+2.0 3 
+4.0 9 
+6.0 14 
+8.0 15 
+Total Agg: 276 #AgglomerateN°=190 of_23_partilces Longest distance: 6.784187479384656
+2.0 3 
+4.0 11 
+6.0 20 
+8.0 23 
+Total Agg: 276 #AgglomerateN°=191 of_31_partilces Longest distance: 8.046992231544703
+2.0 2 
+4.0 10 
+6.0 23 
+8.0 29 
+10.0 30 
+12.0 31 
+Total Agg: 276 #AgglomerateN°=192 of_19_partilces Longest distance: 6.1313617882263225
+2.0 2 
+4.0 8 
+6.0 18 
+8.0 19 
+Total Agg: 276 #AgglomerateN°=193 of_14_partilces Longest distance: 3.6314014810164066
+2.0 2 
+4.0 13 
+6.0 14 
+Total Agg: 276 #AgglomerateN°=194 of_4_partilces Longest distance: 1.8080097333328045
+2.0 4 
+Total Agg: 276 #AgglomerateN°=195 of_12_partilces Longest distance: 3.652711738675028
+2.0 3 
+4.0 11 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=196 of_15_partilces Longest distance: 4.094682943616245
+2.0 3 
+4.0 13 
+6.0 15 
+Total Agg: 276 #AgglomerateN°=197 of_21_partilces Longest distance: 7.994636995527242
+2.0 2 
+4.0 6 
+6.0 12 
+8.0 20 
+10.0 21 
+Total Agg: 276 #AgglomerateN°=198 of_11_partilces Longest distance: 4.282248952231306
+2.0 3 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=199 of_19_partilces Longest distance: 5.543399790565944
+2.0 2 
+4.0 11 
+6.0 17 
+8.0 19 
+Total Agg: 276 #AgglomerateN°=200 of_17_partilces Longest distance: 5.243241269503631
+2.0 2 
+4.0 10 
+6.0 16 
+8.0 17 
+Total Agg: 276 #AgglomerateN°=201 of_15_partilces Longest distance: 5.134005532632462
+2.0 3 
+4.0 11 
+6.0 15 
+Total Agg: 276 #AgglomerateN°=202 of_23_partilces Longest distance: 5.260747303040112
+2.0 4 
+4.0 15 
+6.0 23 
+Total Agg: 276 #AgglomerateN°=203 of_17_partilces Longest distance: 5.609556844258913
+2.0 3 
+4.0 10 
+6.0 16 
+8.0 17 
+Total Agg: 276 #AgglomerateN°=204 of_12_partilces Longest distance: 5.4168153883767465
+2.0 3 
+4.0 8 
+6.0 12 
+Total Agg: 276 #AgglomerateN°=205 of_9_partilces Longest distance: 4.522282932049654
+2.0 3 
+4.0 7 
+6.0 9 
+Total Agg: 276 #AgglomerateN°=206 of_8_partilces Longest distance: 3.0365706868424027
+2.0 3 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=207 of_17_partilces Longest distance: 7.823730678783217
+2.0 1 
+4.0 5 
+6.0 11 
+8.0 16 
+10.0 17 
+Total Agg: 276 #AgglomerateN°=208 of_22_partilces Longest distance: 5.6614734457128195
+2.0 2 
+4.0 11 
+6.0 21 
+8.0 22 
+Total Agg: 276 #AgglomerateN°=209 of_11_partilces Longest distance: 3.2673551178104736
+2.0 2 
+4.0 11 
+Total Agg: 276 #AgglomerateN°=210 of_20_partilces Longest distance: 5.255370541622949
+2.0 2 
+4.0 13 
+6.0 18 
+8.0 20 
+Total Agg: 276 #AgglomerateN°=211 of_17_partilces Longest distance: 4.448730891528572
+2.0 2 
+4.0 14 
+6.0 17 
+Total Agg: 276 #AgglomerateN°=212 of_21_partilces Longest distance: 9.227387362837156
+2.0 1 
+4.0 7 
+6.0 13 
+8.0 18 
+10.0 21 
+Total Agg: 276 #AgglomerateN°=213 of_5_partilces Longest distance: 1.8627655620530579
+2.0 4 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=214 of_3_partilces Longest distance: 1.276288146252165
+2.0 3 
+Total Agg: 276 #AgglomerateN°=215 of_6_partilces Longest distance: 2.4417694904234697
+2.0 4 
+4.0 6 
+Total Agg: 276 #AgglomerateN°=216 of_8_partilces Longest distance: 2.607358260236047
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=217 of_12_partilces Longest distance: 3.3929038716301525
+2.0 3 
+4.0 12 
+Total Agg: 276 #AgglomerateN°=218 of_14_partilces Longest distance: 4.798152487881271
+2.0 0 
+4.0 7 
+6.0 14 
+Total Agg: 276 #AgglomerateN°=219 of_21_partilces Longest distance: 5.766564543498276
+2.0 2 
+4.0 11 
+6.0 21 
+Total Agg: 276 #AgglomerateN°=220 of_6_partilces Longest distance: 2.3000884074512036
+2.0 3 
+4.0 6 
+Total Agg: 276 #AgglomerateN°=221 of_16_partilces Longest distance: 6.246575453361555
+2.0 1 
+4.0 10 
+6.0 15 
+8.0 16 
+Total Agg: 276 #AgglomerateN°=222 of_7_partilces Longest distance: 2.633914905109758
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=223 of_5_partilces Longest distance: 2.2975566133319236
+2.0 3 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=224 of_10_partilces Longest distance: 4.061401436709733
+2.0 2 
+4.0 9 
+6.0 10 
+Total Agg: 276 #AgglomerateN°=225 of_3_partilces Longest distance: 1.128176570179508
+2.0 3 
+Total Agg: 276 #AgglomerateN°=226 of_18_partilces Longest distance: 4.443338919525773
+2.0 2 
+4.0 14 
+6.0 18 
+Total Agg: 276 #AgglomerateN°=227 of_11_partilces Longest distance: 4.293090523196338
+2.0 4 
+4.0 9 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=228 of_12_partilces Longest distance: 5.857848370018646
+2.0 1 
+4.0 7 
+6.0 11 
+8.0 12 
+Total Agg: 276 #AgglomerateN°=229 of_17_partilces Longest distance: 8.064772289616105
+2.0 2 
+4.0 6 
+6.0 11 
+8.0 16 
+10.0 17 
+Total Agg: 276 #AgglomerateN°=230 of_16_partilces Longest distance: 4.323547703612382
+2.0 2 
+4.0 12 
+6.0 16 
+Total Agg: 276 #AgglomerateN°=231 of_24_partilces Longest distance: 6.085520189828886
+2.0 4 
+4.0 14 
+6.0 22 
+8.0 24 
+Total Agg: 276 #AgglomerateN°=232 of_11_partilces Longest distance: 3.038487412494754
+2.0 4 
+4.0 11 
+Total Agg: 276 #AgglomerateN°=233 of_8_partilces Longest distance: 3.6067321382450297
+2.0 2 
+4.0 7 
+6.0 8 
+Total Agg: 276 #AgglomerateN°=234 of_5_partilces Longest distance: 2.0810253478146086
+2.0 4 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=235 of_13_partilces Longest distance: 4.413258639245352
+2.0 2 
+4.0 10 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=236 of_10_partilces Longest distance: 3.1260755798765283
+2.0 4 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=237 of_14_partilces Longest distance: 3.4676857868456454
+2.0 3 
+4.0 14 
+Total Agg: 276 #AgglomerateN°=238 of_8_partilces Longest distance: 2.6438276626515758
+2.0 4 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=239 of_7_partilces Longest distance: 3.0341061829295866
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=240 of_11_partilces Longest distance: 3.961002808785183
+2.0 2 
+4.0 10 
+6.0 11 
+Total Agg: 276 #AgglomerateN°=241 of_15_partilces Longest distance: 5.0705928346108715
+2.0 2 
+4.0 12 
+6.0 14 
+8.0 15 
+Total Agg: 276 #AgglomerateN°=242 of_4_partilces Longest distance: 1.829976777916311
+2.0 4 
+Total Agg: 276 #AgglomerateN°=243 of_7_partilces Longest distance: 2.5326966549534515
+2.0 4 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=244 of_22_partilces Longest distance: 5.170260206316556
+2.0 3 
+4.0 15 
+6.0 22 
+Total Agg: 276 #AgglomerateN°=245 of_14_partilces Longest distance: 3.8433915507139362
+2.0 6 
+4.0 13 
+6.0 14 
+Total Agg: 276 #AgglomerateN°=246 of_17_partilces Longest distance: 6.181564168386815
+2.0 3 
+4.0 11 
+6.0 15 
+8.0 17 
+Total Agg: 276 #AgglomerateN°=247 of_7_partilces Longest distance: 2.1898852002398828
+2.0 4 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=248 of_5_partilces Longest distance: 2.96450807759116
+2.0 2 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=249 of_10_partilces Longest distance: 3.505454890533021
+2.0 2 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=250 of_9_partilces Longest distance: 4.055472910223225
+2.0 2 
+4.0 7 
+6.0 9 
+Total Agg: 276 #AgglomerateN°=251 of_3_partilces Longest distance: 1.759692396617792
+2.0 3 
+Total Agg: 276 #AgglomerateN°=252 of_6_partilces Longest distance: 2.8196682866578486
+2.0 2 
+4.0 6 
+Total Agg: 276 #AgglomerateN°=253 of_2_partilces Longest distance: 1.0232539524329012
+2.0 2 
+Total Agg: 276 #AgglomerateN°=254 of_13_partilces Longest distance: 3.7267370449187363
+2.0 4 
+4.0 12 
+6.0 13 
+Total Agg: 276 #AgglomerateN°=255 of_12_partilces Longest distance: 5.625378863140973
+2.0 4 
+4.0 8 
+6.0 11 
+8.0 12 
+Total Agg: 276 #AgglomerateN°=256 of_6_partilces Longest distance: 2.2379639493999397
+2.0 2 
+4.0 6 
+Total Agg: 276 #AgglomerateN°=257 of_5_partilces Longest distance: 2.6063869348368245
+2.0 3 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=258 of_10_partilces Longest distance: 3.0482964641852033
+2.0 3 
+4.0 10 
+Total Agg: 276 #AgglomerateN°=259 of_2_partilces Longest distance: 1.057228497778308
+2.0 2 
+Total Agg: 276 #AgglomerateN°=260 of_8_partilces Longest distance: 4.171407382083548
+2.0 2 
+4.0 7 
+6.0 8 
+Total Agg: 276 #AgglomerateN°=261 of_3_partilces Longest distance: 1.4515730656882257
+2.0 3 
+Total Agg: 276 #AgglomerateN°=262 of_7_partilces Longest distance: 2.645967625536645
+2.0 3 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=263 of_4_partilces Longest distance: 2.6250763409006237
+2.0 2 
+4.0 4 
+Total Agg: 276 #AgglomerateN°=264 of_4_partilces Longest distance: 1.489481638900809
+2.0 4 
+Total Agg: 276 #AgglomerateN°=265 of_3_partilces Longest distance: 1.1962034475040642
+2.0 3 
+Total Agg: 276 #AgglomerateN°=266 of_8_partilces Longest distance: 2.733125831357046
+2.0 2 
+4.0 8 
+Total Agg: 276 #AgglomerateN°=267 of_4_partilces Longest distance: 1.8548814520861956
+2.0 2 
+4.0 4 
+Total Agg: 276 #AgglomerateN°=268 of_2_partilces Longest distance: 1.0448643123201746
+2.0 2 
+Total Agg: 276 #AgglomerateN°=269 of_7_partilces Longest distance: 2.1674510917351175
+2.0 4 
+4.0 7 
+Total Agg: 276 #AgglomerateN°=270 of_4_partilces Longest distance: 1.7739349146760475
+2.0 4 
+Total Agg: 276 #AgglomerateN°=271 of_5_partilces Longest distance: 2.444605582400046
+2.0 3 
+4.0 5 
+Total Agg: 276 #AgglomerateN°=272 of_4_partilces Longest distance: 2.5533260249326344
+2.0 2 
+4.0 4 
+Total Agg: 276 #AgglomerateN°=273 of_6_partilces Longest distance: 2.009541497616373
+2.0 4 
+4.0 6 
+Total Agg: 276 #AgglomerateN°=274 of_2_partilces Longest distance: 1.0199282364669446
+2.0 2 
+Total Agg: 276 #AgglomerateN°=275 of_2_partilces Longest distance: 1.0177552607932006
+2.0 2 
